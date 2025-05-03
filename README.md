@@ -1,2 +1,2 @@
 # RAG-Assistant
-AI RAG bot with Watsonx, ChromaDB, Gradio UI.
+Developed an AI-powered Retrieval-Augmented Generation (RAG) assistant capable of analyzing, understanding, and answering questions from large and complex documents. The system uses IBM Watsonx's LLM for generating responses and Watsonx Embeddings for converting text into semantic vectors. Documents are preprocessed with text chunking and stored in a ChromaDB vector store for efficient retrieval. A user-friendly interface was built using Gradio, allowing users to upload PDFs and ask natural language questions, receiving fast, context-aware answers from the assistant.
